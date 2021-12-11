@@ -14,6 +14,7 @@
 		AD37239527610894004EE1BF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD37239427610894004EE1BF /* Persistence.swift */; };
 		AD37239827610894004EE1BF /* CoreDataBootcamp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AD37239627610894004EE1BF /* CoreDataBootcamp.xcdatamodeld */; };
 		ADC40CB42764FCF70034CC06 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC40CB32764FCF70034CC06 /* BackgroundThreadBootcamp.swift */; };
+		ADF5B24827655243009A1007 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */; };
 		ADFB7DE42762987F00F059BB /* CoreDataRelationships.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFB7DE32762987F00F059BB /* CoreDataRelationships.swift */; };
 		ADFB7DE727629A6B00F059BB /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ADFB7DE527629A6B00F059BB /* CoreDataContainer.xcdatamodeld */; };
 /* End PBXBuildFile section */
@@ -27,6 +28,7 @@
 		AD37239427610894004EE1BF /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		AD37239727610894004EE1BF /* CoreDataBootcamp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataBootcamp.xcdatamodel; sourceTree = "<group>"; };
 		ADC40CB32764FCF70034CC06 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
+		ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		ADFB7DE32762987F00F059BB /* CoreDataRelationships.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationships.swift; sourceTree = "<group>"; };
 		ADFB7DE627629A6B00F059BB /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,6 +72,7 @@
 				AD37239127610894004EE1BF /* Preview Content */,
 				ADFB7DE527629A6B00F059BB /* CoreDataContainer.xcdatamodeld */,
 				ADC40CB32764FCF70034CC06 /* BackgroundThreadBootcamp.swift */,
+				ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */,
 			);
 			path = CoreDataBootcamp;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADF5B24827655243009A1007 /* WeakSelfBootcamp.swift in Sources */,
 				ADFB7DE727629A6B00F059BB /* CoreDataContainer.xcdatamodeld in Sources */,
 				AD37239527610894004EE1BF /* Persistence.swift in Sources */,
 				AD37239827610894004EE1BF /* CoreDataBootcamp.xcdatamodeld in Sources */,

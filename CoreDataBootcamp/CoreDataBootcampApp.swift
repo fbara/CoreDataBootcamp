@@ -13,7 +13,8 @@ struct CoreDataBootcampApp: App {
 
     var body: some Scene {
         WindowGroup {
-            BackgroundThreadBootcamp()
+            WeakSelfBootcamp()
+//            BackgroundThreadBootcamp()
 //            ContentView()
 //            CoreDataRelationships()
 //                .environment(\.managedObjectContext, persistenceController.container.viewContext)
