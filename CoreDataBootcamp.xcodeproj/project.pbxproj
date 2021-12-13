@@ -13,6 +13,7 @@
 		AD37239327610894004EE1BF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD37239227610894004EE1BF /* Preview Assets.xcassets */; };
 		AD37239527610894004EE1BF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD37239427610894004EE1BF /* Persistence.swift */; };
 		AD37239827610894004EE1BF /* CoreDataBootcamp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AD37239627610894004EE1BF /* CoreDataBootcamp.xcdatamodeld */; };
+		AD4742922767B2CD00DE60A6 /* EscapingBootcqmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4742912767B2CD00DE60A6 /* EscapingBootcqmp.swift */; };
 		ADC40CB42764FCF70034CC06 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC40CB32764FCF70034CC06 /* BackgroundThreadBootcamp.swift */; };
 		ADF5B24827655243009A1007 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */; };
 		ADF5B24A2765586B009A1007 /* TypeAliasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5B2492765586B009A1007 /* TypeAliasBootcamp.swift */; };
@@ -28,6 +29,7 @@
 		AD37239227610894004EE1BF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AD37239427610894004EE1BF /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		AD37239727610894004EE1BF /* CoreDataBootcamp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataBootcamp.xcdatamodel; sourceTree = "<group>"; };
+		AD4742912767B2CD00DE60A6 /* EscapingBootcqmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcqmp.swift; sourceTree = "<group>"; };
 		ADC40CB32764FCF70034CC06 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		ADF5B2492765586B009A1007 /* TypeAliasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeAliasBootcamp.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				ADC40CB32764FCF70034CC06 /* BackgroundThreadBootcamp.swift */,
 				ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */,
 				ADF5B2492765586B009A1007 /* TypeAliasBootcamp.swift */,
+				AD4742912767B2CD00DE60A6 /* EscapingBootcqmp.swift */,
 			);
 			path = CoreDataBootcamp;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				AD37239827610894004EE1BF /* CoreDataBootcamp.xcdatamodeld in Sources */,
 				ADF5B24A2765586B009A1007 /* TypeAliasBootcamp.swift in Sources */,
 				ADC40CB42764FCF70034CC06 /* BackgroundThreadBootcamp.swift in Sources */,
+				AD4742922767B2CD00DE60A6 /* EscapingBootcqmp.swift in Sources */,
 				ADFB7DE42762987F00F059BB /* CoreDataRelationships.swift in Sources */,
 				AD37238E27610893004EE1BF /* ContentView.swift in Sources */,
 				AD37238C27610893004EE1BF /* CoreDataBootcampApp.swift in Sources */,
