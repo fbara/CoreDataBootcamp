@@ -14,6 +14,7 @@
 		AD37239527610894004EE1BF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD37239427610894004EE1BF /* Persistence.swift */; };
 		AD37239827610894004EE1BF /* CoreDataBootcamp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AD37239627610894004EE1BF /* CoreDataBootcamp.xcdatamodeld */; };
 		AD4742922767B2CD00DE60A6 /* EscapingBootcqmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4742912767B2CD00DE60A6 /* EscapingBootcqmp.swift */; };
+		AD4742942767B8D500DE60A6 /* CodeableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4742932767B8D500DE60A6 /* CodeableBootcamp.swift */; };
 		ADC40CB42764FCF70034CC06 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC40CB32764FCF70034CC06 /* BackgroundThreadBootcamp.swift */; };
 		ADF5B24827655243009A1007 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */; };
 		ADF5B24A2765586B009A1007 /* TypeAliasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF5B2492765586B009A1007 /* TypeAliasBootcamp.swift */; };
@@ -30,6 +31,7 @@
 		AD37239427610894004EE1BF /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		AD37239727610894004EE1BF /* CoreDataBootcamp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataBootcamp.xcdatamodel; sourceTree = "<group>"; };
 		AD4742912767B2CD00DE60A6 /* EscapingBootcqmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcqmp.swift; sourceTree = "<group>"; };
+		AD4742932767B8D500DE60A6 /* CodeableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeableBootcamp.swift; sourceTree = "<group>"; };
 		ADC40CB32764FCF70034CC06 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		ADF5B2492765586B009A1007 /* TypeAliasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeAliasBootcamp.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				ADF5B24727655243009A1007 /* WeakSelfBootcamp.swift */,
 				ADF5B2492765586B009A1007 /* TypeAliasBootcamp.swift */,
 				AD4742912767B2CD00DE60A6 /* EscapingBootcqmp.swift */,
+				AD4742932767B8D500DE60A6 /* CodeableBootcamp.swift */,
 			);
 			path = CoreDataBootcamp;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				AD37239527610894004EE1BF /* Persistence.swift in Sources */,
 				AD37239827610894004EE1BF /* CoreDataBootcamp.xcdatamodeld in Sources */,
 				ADF5B24A2765586B009A1007 /* TypeAliasBootcamp.swift in Sources */,
+				AD4742942767B8D500DE60A6 /* CodeableBootcamp.swift in Sources */,
 				ADC40CB42764FCF70034CC06 /* BackgroundThreadBootcamp.swift in Sources */,
 				AD4742922767B2CD00DE60A6 /* EscapingBootcqmp.swift in Sources */,
 				ADFB7DE42762987F00F059BB /* CoreDataRelationships.swift in Sources */,

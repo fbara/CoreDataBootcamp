@@ -13,7 +13,8 @@ struct CoreDataBootcampApp: App {
 
     var body: some Scene {
         WindowGroup {
-            WeakSelfBootcamp()
+            CodeableBootcamp()
+//            WeakSelfBootcamp()
 //            BackgroundThreadBootcamp()
 //            ContentView()
 //            CoreDataRelationships()
