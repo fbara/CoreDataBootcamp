@@ -15,6 +15,7 @@ struct CustomerModel: Identifiable, Codable {
     let isPremium: Bool
     
     // Below is only needed if use Decodeable and Encodeable (not if using Codeable):
+    /*
 //    enum codingKeys: String, CodingKey {
 //        case id
 //        case name
@@ -44,6 +45,7 @@ struct CustomerModel: Identifiable, Codable {
 //        try container.encode(points, forKey: .points)
 //        try container.encode(isPremium, forKey: .isPremium)
 //    }
+     */
 
 }
 

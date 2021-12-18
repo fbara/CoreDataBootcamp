@@ -13,7 +13,8 @@ struct CoreDataBootcampApp: App {
 
     var body: some Scene {
         WindowGroup {
-            CodeableBootcamp()
+            DownloadWithEscapingBootcamp()
+//            CodeableBootcamp()
 //            WeakSelfBootcamp()
 //            BackgroundThreadBootcamp()
 //            ContentView()
